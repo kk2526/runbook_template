@@ -19,7 +19,7 @@
 
 ###Dependencies###
 
-> Software applications, daemons, services, etc. on which service is dependent on the service or system?
+> What all Software applications, daemons, services, etc. are there on which this system/service is dependent on?
 
 
 ##System/Service Characteristics##
